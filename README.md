@@ -215,7 +215,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - [BLIP](https://github.com/salesforce/BLIP) - Image captioning
-- [OpenAI](https://openai.com/) - GPT models
+- [Gemini API](https://ai.google.dev/) - Gemini models
 - [NLTK](https://www.nltk.org/) - Text processing
 - [Flask](https://flask.palletsprojects.com/) - Web framework
 - [PyTorch](https://pytorch.org/) - Machine learning
